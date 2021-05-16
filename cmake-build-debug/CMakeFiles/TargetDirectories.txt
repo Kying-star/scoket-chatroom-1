@@ -1,0 +1,3 @@
+C:/Users/SuperCuteStarSenior/CProject/server/cmake-build-debug/CMakeFiles/server.dir
+C:/Users/SuperCuteStarSenior/CProject/server/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SuperCuteStarSenior/CProject/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
